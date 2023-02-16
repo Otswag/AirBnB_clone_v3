@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """Module for Place related endpoints"""
 from api.v1.views import app_views
 from api.v1.views import *
